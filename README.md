@@ -44,7 +44,7 @@ The "CUSTOMERS PERFORMANCE DASHBOARD" aims to provide an overview of customer-re
 
 
 ## Final Conclusion:
-This Dashboard shows customer demographics ike gender distribution of children, occupation breakdown by country, and education counts and  sales trends between 2020-2021, store performance across cities in Canada, Mexico, and USA.This dashboard helps assess customer profiles, sales patterns, and store-level performance to potentially inform business strategies or identify areas for improvement.
+This Dashboard shows customer demographics like gender distribution of children, occupation breakdown by country, and education counts and  sales trends between 2020-2021, store performance across cities in Canada, Mexico, and USA.This dashboard helps assess customer profiles, sales patterns, and store-level performance to potentially inform business strategies or identify areas for improvement.
 
 
 
