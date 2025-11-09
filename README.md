@@ -1,7 +1,7 @@
 # Excel-Customers-Performance-Dashboard (Interactive Dashboard creation using MS Excel)
 
 ## Project Objective
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The "CUSTOMERS PERFORMANCE DASHBOARD" aims to provide an overview of customer-related metrics and performance indicators. It analyzes demographics like gender, education, and occupation by country, evaluates sales performance, and reviews income patterns. The dashboard helps businesses make data-driven decisions by visualizing customer data trends across different dimensions like location and income.
 
 ## Dataset used
 - <a href="https://github.com/vaibhavideshmukh2711/excel-customer-performance-dashboard/blob/main/Customer_performance_Dashboard.xlsx">Dataset</a>
